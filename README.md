@@ -16,3 +16,13 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 
 
 ## Vamos lá! Começe a atividade logo abaixo 👇👇👇
+
+
+# Engenharia de requisitos <h1>
+
+
+
+
+
+![silly](https://i1.sndcdn.com/artworks-zyYqA8D0BdfuyH28-WeeHrw-t500x500.jpg)
+
