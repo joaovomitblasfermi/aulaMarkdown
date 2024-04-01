@@ -75,4 +75,6 @@ Requisitos funci
 
 Estes são o coração de qualquer aplicação e detalham suas principais funcionalidades. Por exemplo, se considerarmos a criação de um portal de notícias, esses requisitos seriam responsáveis por englobar cada recurso, desde a postagem de artigos até a moderação e publicação de comentários. Além disso, uma integração com plataformas de mídia social para compartilhamento de conteúdo também poderia se encaixar dentro dos requisitos funcionais. 
 
-Requisitos de domínio
+## Requisitos de dominio <h2>
+
+Esses são aspectos que os usuários nem sempre expressam claramente, mas definitivamente esperam encontrar. Em um aplicativo de streaming de música, os usuários podem esperar intuitiva e naturalmente que a reprodução da música continue mesmo quando minimizam o aplicativo ou bloqueiam seus dispositivos, por exemplo
