@@ -1,4 +1,4 @@
-# Aula prática - Markdown
+![image](https://github.com/joaovomitblasfermi/aulaMarkdown/assets/164503994/f7e78322-0065-46c3-8869-f2fceb25d73a)# Aula prática - Markdown
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
@@ -56,4 +56,19 @@ Requisitos funci
 
 
 
-https://mercadoonlinedigital.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/10/engenharia-de-requisitos-resumo.jpg.webp
+
+
+
+
+
+
+
+![imagem](https://mercadoonlinedigital.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/10/engenharia-de-requisitos-resumo.jpg.webp)
+
+
+
+
+
+
+
+a
