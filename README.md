@@ -35,10 +35,11 @@ A seguir, entenda melhor para que serve e quais os objetivos do serviço de enge
 
 # Tipos de engenharia <h1>
 
-**funcionalidade do sistema.**
 
-Requisitos não funcionais
+
+## Requisitos não funcionais <h2>
+
 Os requisitos não funcionais se referem às características essenciais que um sistema deve possuir, mas que não estão diretamente relacionadas às suas funcionalidades principais. Em relação ao desempenho, é crucial garantir que o sistema responda rapidamente e opere sem atrasos. 
 
-No contexto de um site de comércio 
+No contexto de um site de comércio  
 
