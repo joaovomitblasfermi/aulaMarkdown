@@ -71,4 +71,8 @@ Requisitos funci
 
 
 
-a
+
+
+Estes são o coração de qualquer aplicação e detalham suas principais funcionalidades. Por exemplo, se considerarmos a criação de um portal de notícias, esses requisitos seriam responsáveis por englobar cada recurso, desde a postagem de artigos até a moderação e publicação de comentários. Além disso, uma integração com plataformas de mídia social para compartilhamento de conteúdo também poderia se encaixar dentro dos requisitos funcionais. 
+
+Requisitos de domínio
