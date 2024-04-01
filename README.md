@@ -41,5 +41,19 @@ A seguir, entenda melhor para que serve e quais os objetivos do serviço de enge
 
 Os requisitos não funcionais se referem às características essenciais que um sistema deve possuir, mas que não estão diretamente relacionadas às suas funcionalidades principais. Em relação ao desempenho, é crucial garantir que o sistema responda rapidamente e opere sem atrasos. 
 
-No contexto de um site de comércio  
+No contexto de um site de comércio eletrônico, tempos de carregamento rápidos são essenciais para manter os clientes envolvidos. E em um mundo onde as ameaças cibernéticas são constantes, garantir a segurança dos dados do usuário e das transações também é de extrema importância. Por último, à medida que o número de usuários aumenta ou as demandas do sistema se tornam mais intensas (ou os dois), é essencial que o software seja capaz de se adaptar sem comprometer seu desempenho ou segurança.
 
+Requisitos funci
+
+
+
+
+## Requisitos funcionais <h2>
+
+
+
+
+
+
+
+https://mercadoonlinedigital.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/10/engenharia-de-requisitos-resumo.jpg.webp
