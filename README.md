@@ -21,8 +21,24 @@ Você poderá estudar o conteúdo [clicando aqui](https://docs.pipz.com/central-
 # Engenharia de requisitos <h1>
 
 
+O serviço de engenharia de requisitos é indispensável para garantir o sucesso no desenvolvimento de qualquer software.
+
+Mais que contar com boas ideias e profissionais devidamente qualificados, o processo de criação de um sistema exige pleno alinhamento entre os envolvidos e clareza sobre seus objetivos.
+
+A engenharia de requisitos oferece controles e padrões para que as exigências do projeto sejam claras, correspondam às suas finalidades e possam ser compreendidas por todos os responsáveis.
+
+Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
+
+A seguir, entenda melhor para que serve e quais os objetivos do serviço de engenharia de requisitos, quais as suas principais etapas, bem como os diferenciais que a Monitora oferece.
 
 
 
-![silly](https://i1.sndcdn.com/artworks-zyYqA8D0BdfuyH28-WeeHrw-t500x500.jpg)
+# Tipos de engenharia <h1>
+
+**funcionalidade do sistema.**
+
+Requisitos não funcionais
+Os requisitos não funcionais se referem às características essenciais que um sistema deve possuir, mas que não estão diretamente relacionadas às suas funcionalidades principais. Em relação ao desempenho, é crucial garantir que o sistema responda rapidamente e opere sem atrasos. 
+
+No contexto de um site de comércio 
 
