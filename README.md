@@ -1,4 +1,4 @@
-![image](https://github.com/joaovomitblasfermi/aulaMarkdown/assets/164503994/f7e78322-0065-46c3-8869-f2fceb25d73a)# Aula prática - Markdown
+# Aula prática - Markdown
 
 Este repositório servirá de base para você praticar a estrutura de texto markdown. 
 
@@ -30,6 +30,13 @@ A engenharia de requisitos oferece controles e padrões para que as exigências 
 Isso garante a qualidade do software, além de mais produtividade em suas etapas de desenvolvimento, operação e manutenção.
 
 A seguir, entenda melhor para que serve e quais os objetivos do serviço de engenharia de requisitos, quais as suas principais etapas, bem como os diferenciais que a Monitora oferece.
+
+
+
+
+
+![exemplo](https://mercadoonlinedigital.com/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/10/engenharia-de-requisitos-pdf.jpg.webp)
+
 
 
 
@@ -77,4 +84,9 @@ Estes são o coração de qualquer aplicação e detalham suas principais funcio
 
 ## Requisitos de dominio <h2>
 
-Esses são aspectos que os usuários nem sempre expressam claramente, mas definitivamente esperam encontrar. Em um aplicativo de streaming de música, os usuários podem esperar intuitiva e naturalmente que a reprodução da música continue mesmo quando minimizam o aplicativo ou bloqueiam seus dispositivos, por exemplo
+Esses são aspectos que os usuários nem sempre expressam claramente, mas definitivamente esperam encontrar. Em um aplicativo de streaming de música, os usuários podem esperar intuitiva e naturalmente que a reprodução da música continue mesmo quando minimizam o aplicativo ou bloqueiam seus dispositivos, por exemplo um aplicativo de transporte utilizado por um motorista que transita pelas ruas de São Paulo precisa levar em consideração regulamentações locais, tarifas específicas ou até mesmo festivais e eventos que possam afetar o trânsito na cidade.
+
+
+**tudo foi retirado do seguinte site**:
+
+<https://mercadoonlinedigital.com/blog/engenharia-de-requisitos/#:~:text=Eles%20s%C3%A3o%20classificados%20em%20dois,detalhando%20suas%20fun%C3%A7%C3%B5es%20e%20processos.>
